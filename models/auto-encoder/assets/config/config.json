@@ -1,0 +1,16 @@
+{   
+    "trainid"           : "samplemodelv0-100",
+    "model"             : "v0",
+    "batch_size"        : 2,
+    "label"             : "binary",
+    "testrain_split"    : 0.2,
+    "transform"         : true,
+    "image_size"        : 512,
+    "epoch"             : 100,
+    "savemodelstep"     : 25,
+    "datapath"          : "../DATASET/",
+    "datafilepath"      : "assets/dummy_filepath.csv",
+    "comments"          : "'tansform' allow few preprocessing. 'transform' wont change imagesize, to change image size use 'image_size'."
+
+
+}
