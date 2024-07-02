@@ -53,3 +53,27 @@ Total components        - 236 -PCA-> 64 -KNN-> 7 clsuster
 All image data = 0.7022365768041495 variance
 last 50% image data = 0.1879 variance
 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+1. Weather Data:
+
+    [Terra-Climate](https://www.climatologylab.org/terraclimate.html)
+
+    The weather data is 4km resolution, I downloaded it in 1.3X1 km resolution(GE download resolution). 
+
+    <img src="./assets/terra-climate-desc.png" alt="drawing" style="width:400px;"/>
+
+
+    Steps:
+    1. Convert the points to grid-cell using QGIS>vector>buffer. 
+
+        <img src="./assets/qgis-weather-buffer.png" alt="drawing" style="width:800px;"/>
+
+
+2. Elevation:
+
+    
+
