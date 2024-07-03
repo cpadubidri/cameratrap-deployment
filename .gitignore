@@ -9,3 +9,18 @@ assets/Filepath_list_v2.csv
 
 #weather
 models/weather-embedding/train-results
+#Elevation
+models/elevation-embedding/train-results
+#clustering
+models/clustering-model/data
+#elevation
+models/embedding-elevation/train-results
+models/embedding-elevation/elevation-crops-embedding.csv
+#lc
+models/embedding-lc/train-results
+#weather
+models/embedding-weather/train-results
+models/embedding-weather/weather-embedding.csv
+#
+
+
