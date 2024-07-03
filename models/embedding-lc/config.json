@@ -1,0 +1,14 @@
+{   
+    "trainid"           : "elemodel-1",
+    "model"             : "v0",
+    "batch_size"        : 256,
+    "image_size"        : 256,
+    "testrain_split"    : 0.2,
+    "transform"         : true,
+    "epoch"             : 1000,
+    "savemodelstep"     : 5,
+    "datapath"          : "/home/savvas/CHIRAG/PHD/20240515-CT-Deployment/cameratrap-deployment/data-prepare/LC/lc-crops_png",
+    "comments"          : ""
+
+
+}
