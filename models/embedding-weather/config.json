@@ -1,0 +1,13 @@
+{   
+    "trainid"           : "weathermodel-3",
+    "model"             : "v0",
+    "batch_size"        : 1,
+    "testrain_split"    : 0.2,
+    "transform"         : true,
+    "epoch"             : 1000,
+    "savemodelstep"     : 25,
+    "datapath"          : "/home/savvas/CHIRAG/PHD/20240515-CT-Deployment/cameratrap-deployment/data-prepare/WEATHER/data_cleaned",
+    "comments"          : "64 latent space"
+
+
+}
